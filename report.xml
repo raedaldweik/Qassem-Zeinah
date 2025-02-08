@@ -310,7 +310,7 @@
 		</VisualContainer>
 		<Image scaleType="scaleToFit" file="ve10.png" name="ve10" label="Image 1" selectionDisabled="true"/>
 		<Text name="ve19" label="Text 1" selectionDisabled="true" applyDynamicBrushes="no">
-			<P format="h2"><Span class="span1">Inundation Alert:</Span><Span class="span2"> Jumeirah Beach Rd</Span></P>
+			<P format="h2"><Span class="span1">Inundation Alert:</Span><Span class="span2"> Qassem Zeinah</Span></P>
 		</Text>
 		<VisualContainer containerType="precision" name="ve25" label="Precision container 2" selectionDisabled="true">
 			<EditorProperties>
